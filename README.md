@@ -1,2 +1,2 @@
 # onivim2-build-script
-Build script for onivim 2, for Ubuntu
+Build script for onivim 2, for Ubuntu. Other distros should build, just install deps. Outpus an AppImage to ./oni2/\_release
